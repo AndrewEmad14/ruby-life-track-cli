@@ -1,0 +1,17 @@
+# Ruby
+*.gem
+*.rbc
+.bundle
+vendor/bundle
+
+# Logs & temp
+*.log
+tmp/
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
